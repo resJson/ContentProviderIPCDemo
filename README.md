@@ -1,0 +1,2 @@
+# ContentProviderIPCDemo
+ContentProvider实现IPC方案
